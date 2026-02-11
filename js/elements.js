@@ -1,0 +1,11 @@
+export const image = document.getElementById('cover');
+export const title = document.getElementById('music-title');
+export const artist = document.getElementById('music-artist');
+export const currentTimeEl = document.getElementById('current-time');
+export const durationEl = document.getElementById('duration');
+export const progress = document.getElementById('progress');
+export const playerProgress = document.getElementById('player-progress');
+export const prevBtn = document.getElementById('prev');
+export const nextBtn = document.getElementById('next');
+export const playBtn = document.getElementById('play');
+export const background = document.getElementById('bg-img');
